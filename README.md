@@ -6,13 +6,13 @@ Hi all this is Script written by Z university guy i just made changes along to m
 
 <b>Installation</b>
 
-<code> git clone https://github.com/RuturajS/ipsdomains/domainsresolver.py </code>
-<code> cd domainsresolver </code>
-<code> pip3 install -r requirements.txt </code>
+<code> git clone https://github.com/RuturajS/ipsdomains/domainsresolver.py </code></br>
+<code> cd domainsresolver </code></br>
+<code> pip3 install -r requirements.txt </code></br>
 
 
-To Ran a scan for IPS ranges use below command
+To Ran a scan for IPS ranges use below command</br>
 
-<code> python3 domainsresolver.py -ips 127.0.0,192.168.1.1  </code>
+<code> python3 domainsresolver.py -ips 127.0.0,192.168.1.1  </code></br>
 
 it will search for Domains extracting it by crawling SSL certificate from Ips.
